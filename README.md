@@ -1,1 +1,2 @@
-https://d083-2403-6200-88a8-a828-f9ad-8a5e-aceb-ff9.ap.ngrok.io/
+Everytime you want to login with facebook .
+You have to run ngrok and fill that https domain name in facebook developer setting to see the result.
